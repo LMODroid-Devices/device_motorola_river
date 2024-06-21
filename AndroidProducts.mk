@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_river.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_river-eng \
-    lmodroid_river-user \
-    lmodroid_river-userdebug
